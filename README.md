@@ -10,5 +10,5 @@ KEY HIGHLIGHTS:
 4. Interactive charts and graphs allow users to visualise attrition trends over time, enabling them to identify periods with high attrition or significant changes in attrition 
  rates.
 
-pdf link: https://www.canva.com/design/DAF778PIzEc/AK94EBxxQqE--FAmHnhMAA/edit?utm_content=DAF778PIzEc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-Excel link: https://docs.google.com/spreadsheets/d/1qQJhMAUo--n2AYvHLwhsspiTM_fIa9Xr/edit?usp=sharing&ouid=103734379981703831375&rtpof=true&sd=true
+pdf link: https://drive.google.com/file/d/1w7q8szNPC8JTfPIfDQVCGtc4dIqEQXxi/view?usp=sharing
+Excel link: https://docs.google.com/spreadsheets/d/1wI5WNJRV7KBpv-R7P3OG7vcoc-RDG8Gm/edit?usp=sharing&ouid=103734379981703831375&rtpof=true&sd=true
